@@ -1,0 +1,42 @@
+.section-work .section-work-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 120px;
+    background: #F5F4FA;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+
+.section-work .container {
+    padding-bottom: 94px;
+    padding-top: 94px;
+}
+
+.section-work .section-work.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-work .section-work.item {
+    width: 270px;
+}
+
+.section-work .subtitle {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--title-text-color);
+    margin-bottom: 10px;
+}
+
+.section-work .text {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: var(--primery-color-text);
+}

@@ -1,0 +1,13 @@
+.portfolio-filter .portfolio-filter-list {
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio-filter .container {
+    margin-top: 94px;
+    margin-bottom: 50px;
+}
+
+.portfolio-filter .portfolio-filter-list-item:not(:last-child) {
+    margin-right: 8px;
+}

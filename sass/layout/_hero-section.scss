@@ -1,0 +1,21 @@
+.hero-section {
+    background-color: #2f303a;
+    background-image: linear-gradient(rgba(47, 48, 58, 0.4),
+    rgba(47, 48, 58, 0.4)), url("../imeges/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hero-section .container {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.hero-section .hero-title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    color: #ffffff;
+}
